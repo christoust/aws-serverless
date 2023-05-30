@@ -1,5 +1,5 @@
-org: rimironenko
-app: aws-serverless-framework-app
+#org: rimironenko
+#app: aws-serverless-framework-app
 service: Employee-api
 
 frameworkVersion: '3'
